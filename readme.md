@@ -1,4 +1,4 @@
-# Navy Website
+# Luddy Crane Website
 
 <!-- Table of Contents -->
 
