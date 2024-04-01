@@ -1,0 +1,27 @@
+// Colors
+// Use Colors similar to IU's Brand
+// Primary Colors
+$cream: #ffffff;
+$black: #000000;
+$crimson: #990000;
+// Scheme
+$color1: #03aadd;
+$color2: #dd3603;
+$color3: #ffffff;
+$color4: #243142;
+$color5: #191c21;
+// Color Palette
+$colors: (
+  "color1": $color1,
+  "color2": $color2,
+  "color3": $crimson,
+  "color4": $color3,
+  "color5": $color4,
+  "color6": "$color5",
+);
+// @debug map-get($map: $colors, $key: "yellow");
+
+// Sizes
+$-site-width: 1280px;
+$-site-height: 800px;
+$-web-width: 1440px;
