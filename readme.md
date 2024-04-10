@@ -1,9 +1,9 @@
 # Luddy Crane Website
 
-<!-- Table of Contents -->
+## Table of Contents
 
-- [](#links)
-- [](#about)
+- [Links](#links)
+- [About Project](#about)
 - [](#creditscollaborator)
 
 ## Links
