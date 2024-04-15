@@ -1,0 +1,8 @@
+footer {
+  min-height: 100px;
+  color: map-get($map: $colors, $key: "color4");
+  background-color: map-get($map: $colors, $key: "color3");
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}

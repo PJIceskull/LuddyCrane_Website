@@ -44,7 +44,7 @@
 html,
 body {
   height: 100%;
-  font-family: sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 h1,
@@ -75,6 +75,15 @@ nav a:hover {
 nav a:active {
   color: #990000;
   background-color: #ffffff;
+}
+
+footer {
+  min-height: 100px;
+  color: #ffffff;
+  background-color: #990000;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
 }
 
 /*# sourceMappingURL=styles.css.map */
